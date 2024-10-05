@@ -1,6 +1,15 @@
 # Pizza Order System
 
 ### A layout made for study purposes.
+---
+
+Did you like the project and want to run it on your machine? Clone it and open your prompt:
+```
+npm install
+```
+```
+npm run dev
+```
 
 Technologies Used:
 - VueJs + Vite
